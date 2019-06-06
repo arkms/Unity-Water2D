@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: fce86bec1fc5582428c0853b49b0ad13
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mat: {fileID: 2100000, guid: 4437615c3e751844f98d32d8b462f6b8, type: 2}
+  - watermesh: {fileID: 100000, guid: bd7d08261984f0f47981e1d04ab665d1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
